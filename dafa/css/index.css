@@ -1,0 +1,14 @@
+
+  .search-input {
+    margin: 0 auto;
+  }
+
+input[type=search]{ 	
+	color:#F39A15;
+	border: 3px solid #F39A15;  /* Overridden by border: 2px inset; */
+    width: 60vh;
+}
+input[type=search]::placeholder{ 	
+	color:#F39A15;
+	
+}
