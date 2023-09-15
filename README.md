@@ -1,52 +1,38 @@
 <!-- Introduction -->
-# Hello, I'm [Your Name] 👋
+# Hi there, I'm Dafahan! 👋
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession/Interest] based in [Your Location]. Here you'll find some of the projects I've been working on. Feel free to explore, contribute, or reach out if you have any questions or ideas for collaboration.
+Welcome to my GitHub profile. I'm a 19-year-old college student at Lampung University who is passionate about hiking, coding, and music. Here, you'll find some of the projects I'm working on and more.
 
 <!-- About Me -->
 ## About Me 🚀
-- 🌱 I'm currently learning [Your Current Learning Focus].
-- 💬 Ask me about [Your Expertise or Interests].
-- 😄 Pronouns: [Your Pronouns].
-- ⚡ Fun fact: [Fun Fact about Yourself].
+- 📚 I'm currently a student at [Lampung University](https://www.unila.ac.id/).
+- 🌄 I absolutely love hiking and exploring the great outdoors.
+- 💻 Coding is not just my hobby; it's a way of life.
+- 🎵 Music is my escape, and I enjoy [Rock].
 
 <!-- Technologies and Tools -->
-## Technologies & Tools 🛠️
-- [Tech/Tool 1]
-- [Tech/Tool 2]
-- [Tech/Tool 3]
-- [Tech/Tool 4]
-- [Tech/Tool 5]
 
 <!-- Projects -->
-## Projects 🚀
-Here are some of my notable projects:
-
-- [Project 1 Name](Link to Project 1): Short description of the project.
-- [Project 2 Name](Link to Project 2): Short description of the project.
-- [Project 3 Name](Link to Project 3): Short description of the project.
-- [Project 4 Name](Link to Project 4): Short description of the project.
 
 <!-- Connect with Me -->
 ## Connect with Me 🌐
-You can find me on various platforms:
+Let's connect and chat! You can find me on various platforms:
 
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
-- [Email](Your Email Address)
+- [LinkedIn](https://id.linkedin.com/in/dafa-farhan-haqiqi-23b2b621a)
+- [Email](dafahanid@gmail.com)
 
 <!-- GitHub Stats -->
 ## GitHub Stats 📈
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dafahan&show_icons=true&count_private=true&theme=radical)
 
 <!-- Top Languages -->
 ## Top Languages 🚀
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dafahan&layout=compact&theme=radical)
 
 <!-- Visitors -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=YourGitHubUsername.YourGitHubUsername)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=dafahan.dafahan)
 
 <!-- Footer -->
-## Thanks for stopping by! 😊
-Feel free to explore my projects and repositories. If you found something interesting or want to chat, feel free to reach out. Have a great day!
+## Thanks for visiting! 😊
+Feel free to explore my projects and repositories. If you find anything interesting or just want to chat about hiking, coding, or music, don't hesitate to reach out. Have an amazing day!
 
