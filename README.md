@@ -30,7 +30,6 @@ Let's connect and chat! You can find me on various platforms:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dafahan&layout=compact&theme=radical)
 
 <!-- Visitors -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=dafahan)
 
 
 <!-- Footer -->
