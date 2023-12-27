@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Dafahan&desc=sally&color=gradient&customColorList=18&animation=twinkling&fontAlignY=40&descAlign=74)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Dafahan&desc=dev&color=gradient&customColorList=18&animation=twinkling&fontAlignY=40&descAlign=74)
 
 <div align="center">
 
@@ -62,8 +62,8 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwaksuyeon&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafahan&layout=compact">
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=gwaksuyeon&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=dafahan&show_icons=true">
 
 </div>
