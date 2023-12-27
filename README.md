@@ -61,7 +61,9 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafahan&layout=compact&theme=dark">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafahan&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=dafahan&layout=compact&hide=html,css"/>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=dafahan&show_icons=true&theme=dark">
 
