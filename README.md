@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=flat&logo=.NET&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
 </div>
 
 
