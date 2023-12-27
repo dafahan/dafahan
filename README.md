@@ -14,14 +14,16 @@
 </div>
   
 <div>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-<img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=styled-components&logoColor=white" />
-<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux%20Saga-999999?style=flat&logo=Redux-Saga&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+  <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white" />
 </div>
+
 
 <br><br>
 
@@ -34,22 +36,10 @@
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white" />
-</div>
-
-<div>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white" />
 <img src="https://img.shields.io/badge/GoogleAnalytics-E37400?style=flat&logo=Google Analytics&logoColor=white" />
-</div>
-
-<div>
-<img src="https://img.shields.io/badge/Zeplin-FFE4AF?style=flat-square&logo=Zotero&logoColor=black"/>
-<img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=Adobe XD&logoColor=white" />
 </div>
 
 <br><br>
@@ -58,12 +48,15 @@
 <div>
 <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=black"/>
 <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white&color=black"/>
+
 </div>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafahan&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafahan&layout=compact&theme=dark">
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=dafahan&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=dafahan&show_icons=true&theme=dark">
+
 
 </div>
