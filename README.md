@@ -63,7 +63,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafahan&layout=compact&hide=html,css&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafahan&layout=compact&hide=html,css,scss&show_icons=true&theme=dark">
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=dafahan&show_icons=true&theme=dark">
 
