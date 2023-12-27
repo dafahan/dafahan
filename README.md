@@ -1,38 +1,69 @@
-<!-- Introduction -->
-# Hi there, I'm Dafahan! 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Dafahan&desc=sally&color=gradient&customColorList=18&animation=twinkling&fontAlignY=40&descAlign=74)
 
-Welcome to my GitHub profile. I'm a 19-year-old college student at Lampung University who is passionate about hiking, coding, and music. Here, you'll find some of the projects I'm working on and more.
+<div align="center">
 
-<!-- About Me -->
-## About Me 🚀
-- 📚 I'm currently a student at [Lampung University](https://www.unila.ac.id/).
-- 🌄 I absolutely love hiking and exploring the great outdoors.
-- 💻 Coding is not just my hobby; it's a way of life.
-- 🎵 Music is my escape, and I enjoy [Rock].
+## 😺 Front-end Stack 😺
 
-<!-- Technologies and Tools -->
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=Sass&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+</div>
+  
+<div>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=styled-components&logoColor=white" />
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux%20Saga-999999?style=flat&logo=Redux-Saga&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=React&logoColor=white" />
+</div>
 
-<!-- Projects -->
+<br><br>
 
-<!-- Connect with Me -->
-## Connect with Me 🌐
-Let's connect and chat! You can find me on various platforms:
+## 🐶 Cowork tools 🐶
+<div>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white" />
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white" />
+</div>
 
-- [LinkedIn](https://id.linkedin.com/in/dafa-farhan-haqiqi-23b2b621a)
-- [Email](dafahanid@gmail.com)
+<div>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white" />
+</div>
 
-<!-- GitHub Stats -->
-## GitHub Stats 📈
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dafahan&show_icons=true&count_private=true&theme=radical)
+<div>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white" />
+<img src="https://img.shields.io/badge/GoogleAnalytics-E37400?style=flat&logo=Google Analytics&logoColor=white" />
+</div>
 
-<!-- Top Languages -->
-## Top Languages 🚀
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dafahan&layout=compact&theme=radical)
+<div>
+<img src="https://img.shields.io/badge/Zeplin-FFE4AF?style=flat-square&logo=Zotero&logoColor=black"/>
+<img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=flat&logo=Adobe XD&logoColor=white" />
+</div>
 
-<!-- Visitors -->
+<br><br>
 
+## 🐸 Design tools 🐸
+<div>
+<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=black"/>
+<img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white" />
+</div>
 
-<!-- Footer -->
-## Thanks for visiting! 😊
-Feel free to explore my projects and repositories. If you find anything interesting or just want to chat about hiking, coding, or music, don't hesitate to reach out. Have an amazing day!
+<br><br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwaksuyeon&layout=compact">
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=gwaksuyeon&show_icons=true">
+
+</div>
