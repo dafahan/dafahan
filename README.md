@@ -1,4 +1,4 @@
-![header](https://dafahan.github.io/banner.png)
+![header](https://dafahan.github.io/banner2.svg)
 
 <div align="center">
 
