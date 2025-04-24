@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Dafahan&desc=dev&color=gradient&customColorList=18&animation=twinkling&fontAlignY=40&descAlign=74)
+![header](https://dafahan.github.io/banner.png)
 
 <div align="center">
 
