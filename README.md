@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white" />
-<img src="https://img.shields.io/badge/GoogleAnalytics-E37400?style=flat&logo=Google Analytics&logoColor=white" />
+
 </div>
 
 <br><br>
