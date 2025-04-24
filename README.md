@@ -54,8 +54,7 @@
 
 ## 🐸 Design tools 🐸
 <div>
-<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=black"/>
-<img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white&color=black"/>
 
 </div>
