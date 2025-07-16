@@ -65,6 +65,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafahan&layout=compact&hide=html,css,scss&show_icons=true&theme=dark">
 <br>
+![Dafahan's GitHub Streak]()
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafahan&layout=compact&hide=html,css,scss&show_icons=true&theme=dark">
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=dafahan&show_icons=true&theme=dark">
 
 
